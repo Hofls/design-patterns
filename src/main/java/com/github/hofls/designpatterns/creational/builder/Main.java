@@ -7,16 +7,11 @@ package com.github.hofls.designpatterns.creational.builder;
 public class Main {
 
     public void onStartup() {
-
         DocumentParts.Document document =
                 new DocumentBuilder()
                 .addHeader(new DocumentParts.Element())
                 .addBody(new DocumentParts.Element())
                 .addFooter(new DocumentParts.Element())
                 .build();
-
     }
-
-
-
 }
