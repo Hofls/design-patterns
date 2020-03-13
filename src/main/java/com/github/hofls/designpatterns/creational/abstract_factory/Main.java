@@ -3,7 +3,7 @@ package com.github.hofls.designpatterns.creational.abstract_factory;
 /**
  * Abstract factory lets you produce families of related objects
  * Pattern is similar to Factory Method, but with emphasis on families of objects
- * Recognizeable by creational methods returning the factory itself which in turn can be used to create another abstract/interface type
+ * Abstract factory is an object that has multiple factory methods on it
  */
 public class Main {
 
