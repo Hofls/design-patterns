@@ -2,6 +2,7 @@ package com.github.hofls.designpatterns.creational.builder;
 
 /**
  * Builder lets you construct complex objects step by step
+ * Recognizeable by creational methods returning the instance itself
  */
 public class Main {
 
