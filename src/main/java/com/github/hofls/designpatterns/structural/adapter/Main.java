@@ -2,7 +2,7 @@ package com.github.hofls.designpatterns.structural.adapter;
 
 /**
  * Adapter allows objects with incompatible interfaces to collaborate.
- * Useful when you cant change object interface (lets say it comes as external dependency)
+ * Useful when you cant change object interface (e.g. it comes as external dependency)
  */
 public class Main {
 
